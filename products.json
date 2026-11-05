@@ -1,0 +1,200 @@
+{
+  "phones": [
+    {
+      "id": "redmi-15c-4-128",
+      "name": "Xiaomi Redmi 15C (4GB/128GB)",
+      "meta": "6.9\" 120Hz • 6000mAh • 50MP • Android 15",
+      "description": "One of the strongest budget phones on Jumia. Huge battery and smooth display.",
+      "image": "images/redmi-15c.jpg",
+      "url": "https://www.jumia.co.ke/xiaomi-redmi-15c-6.9-4gb-128gb-android-15-6000-mah-4g-dual-sim-ww-sp-black-275367413.html",
+      "badge": "Top Seller",
+      "featured": true,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "redmi-15c-8-256",
+      "name": "Xiaomi Redmi 15C (8GB/256GB)",
+      "meta": "6.9\" • 8GB RAM • 256GB • 6000mAh",
+      "description": "Higher RAM & storage variant – great for heavier use and more apps.",
+      "image": "images/redmi-15c.jpg",
+      "url": "https://www.jumia.co.ke/xiaomi-redmi-15c-6.9-8gb-ram-256gb-rom-50mp-camera-6000mahdual-sim-midnight-black-325510835.html",
+      "badge": "Popular",
+      "featured": false,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "samsung-a07",
+      "name": "Samsung Galaxy A07 4G",
+      "meta": "6.7\" • 4GB + 128GB • 5000mAh • 2YRs Warranty",
+      "description": "Samsung reliability at a budget price. Strong everyday performance.",
+      "image": "images/samsung-a07.jpg",
+      "url": "https://www.jumia.co.ke/samsung-galaxy-a07-4g-6.7-128gb-4gb-ram-dual-sim-5000mah-black-2yrs-wrty-326272665.html",
+      "badge": "Trusted Brand",
+      "featured": false,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "infinix",
+      "name": "Infinix Hot / Smart Series",
+      "meta": "6.7–6.78\" • Big battery • Fast charging",
+      "description": "High-volume local favourites. Stylish and strong for social media & YouTube.",
+      "image": "images/infinix.jpg",
+      "url": "https://www.jumia.co.ke/infinix/",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "tecno",
+      "name": "Tecno Spark / Camon / Pop",
+      "meta": "Budget to mid-range • Dual SIM",
+      "description": "Tecno remains a top seller in Kenya. Good cameras and frequent promotions.",
+      "image": "images/tecno.jpg",
+      "url": "https://www.jumia.co.ke/tecno/",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    }
+  ],
+  "appliances": [
+    {
+      "id": "ailyons-kettle-22",
+      "name": "AILYONS 2.2L Electric Kettle",
+      "meta": "Stainless steel • Fast boil • Cordless",
+      "description": "One of the top-selling small appliances. Durable and fast.",
+      "image": "images/electric-kettle.jpg",
+      "url": "https://www.jumia.co.ke/2.2-litres-luxury-electric-kettle-heater-jug-ailyons-mpg9535651.html",
+      "badge": "Highest Volume",
+      "featured": true,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "ailyons-kettle-18",
+      "name": "AILYONS 1500W 1.8L Kettle",
+      "meta": "360° base • Auto shut-off • Silver",
+      "description": "Compact and popular everyday kettle with safety features.",
+      "image": "images/electric-kettle.jpg",
+      "url": "https://www.jumia.co.ke/ailyons-ailyons-1500w-stainless-steel-electric-kettle-1.8l-360-swivel-base-auto-shut-off-silver-319043621.html",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "hisense-washer",
+      "name": "Hisense 7.5kg Twin-Tub Washing Machine",
+      "meta": "WSQB753W • Wash + Spin • White",
+      "description": "Consistent top seller. Practical twin-tub design for Kenyan homes.",
+      "image": "images/washing-machine.jpg",
+      "url": "https://www.jumia.co.ke/hisense-7.5kg-twin-tub-washing-machineswsqb753w-170262371.html",
+      "badge": "Best Seller",
+      "featured": true,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "blenders",
+      "name": "Blenders & Grinders",
+      "meta": "2-in-1 models • High demand",
+      "description": "Kitchen essentials that move every week.",
+      "image": "images/blender.jpg",
+      "url": "https://www.jumia.co.ke/blenders/",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "microwaves",
+      "name": "Microwave Ovens",
+      "meta": "20L solo and grill models",
+      "description": "Hisense, Ramtons and other popular brands.",
+      "image": "images/microwave.jpg",
+      "url": "https://www.jumia.co.ke/microwave-ovens/",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "cookers",
+      "name": "Gas Cookers & Standing Cookers",
+      "meta": "3–4 burner models",
+      "description": "Strong category during sales and festive seasons.",
+      "image": "images/twin-tub.jpg",
+      "url": "https://www.jumia.co.ke/cookers/",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    }
+  ],
+  "wifi": [
+    {
+      "id": "bvot-mifi",
+      "name": "BVOT 4G/5G Portable WiFi MiFi",
+      "meta": "Universal • Safaricom, Airtel, Telkom",
+      "description": "Pocket hotspot for work, school and travel. Works with major Kenyan SIMs.",
+      "image": "images/mifi-router.jpg",
+      "url": "https://www.jumia.co.ke/portable-wireless-wifi-mifi-hotspot-4g5g-universal-pocket-router-for-reliable-internet-on-airtel-safaricom-and-telkom-bvot-mpg9298431.html",
+      "badge": "High Demand",
+      "featured": true,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "generic-mifi",
+      "name": "Generic 4G Pocket MiFi 3200mAh",
+      "meta": "150Mbps • Up to 10 users • Long battery",
+      "description": "Affordable portable WiFi with solid battery life.",
+      "image": "images/mifi.jpg",
+      "url": "https://www.jumia.co.ke/generic-pocket-hotspot-portable-4g-wireless-router-mifi-3200mah-mobile-broadband-150mbps-wide-coverage-with-sim-card-slot-10-wifi-users-277682341.html",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "tecno-mifi",
+      "name": "Tecno 4G Portable WiFi MiFi",
+      "meta": "LTE Cat4 • Multi-device",
+      "description": "Brand option from Tecno for portable internet.",
+      "image": "images/mifi-router.jpg",
+      "url": "https://www.jumia.co.ke/tecno-4g-portable-wifi-mifi-router-286823742.html",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "powerbanks",
+      "name": "Power Banks",
+      "meta": "Fast charge • High capacity",
+      "description": "Essential accessory – pairs well with every phone sale.",
+      "image": "images/powerbank.jpg",
+      "url": "https://www.jumia.co.ke/power-banks/",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "earbuds",
+      "name": "Wireless Earbuds & Earphones",
+      "meta": "Bluetooth • Wired options",
+      "description": "High-volume accessories with strong demand.",
+      "image": "images/earbuds.jpg",
+      "url": "https://www.jumia.co.ke/earphones-headsets/",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    },
+    {
+      "id": "cases",
+      "name": "Phone Cases & Screen Protectors",
+      "meta": "Protective covers • Tempered glass",
+      "description": "Low price, high volume – great add-ons.",
+      "image": "images/earbuds.jpg",
+      "url": "https://www.jumia.co.ke/phone-cases/",
+      "badge": "",
+      "featured": false,
+      "affiliateUrl": ""
+    }
+  ],
+  "settings": {
+    "affiliateLink": "https://jforce.jumia.co.ke/s/eeIzZkk",
+    "whatsapp": "254114499160",
+    "email": "victormusembi99@gmail.com"
+  }
+}

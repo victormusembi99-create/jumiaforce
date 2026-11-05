@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin-local/
+
+Sitemap: https://victormusembi99-create.github.io/jumiaforce/sitemap.xml
